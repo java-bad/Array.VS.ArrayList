@@ -20,7 +20,7 @@ public class ToDoList
       toDoList.set(1,"Order pizza");
        //toDoList[1] = "Order pizza";
 
-      System.out.println(toDoList.size() + "things to do!");
+      System.out.println(toDoList.size() + " things to do!");
        //System.out.println(toDoList.length + " things to do!");
       System.out.println("Here's the first thing to do: " + toDoList.get(0));
        //System.out.println("Here's the first thing to do: "
